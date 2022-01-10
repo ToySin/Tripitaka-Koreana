@@ -1,4 +1,5 @@
-# Tripitaka-Koreana
+<h1> Tripitaka-Koreana</h1>
+
 |무엇인가요?|얼마나함?|
 |:---:|:---:|
 |[컴퓨터 과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)|시작도 안함~|
