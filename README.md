@@ -14,6 +14,10 @@
  - [코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/tony9402/baekjoon)
  - [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture)
  - [코딩테스트 StudyGroup](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+
+<h3> Project </h3>
+
+ - <a href="https://github.com/practical-tutorials/project-based-learning">project-based-learning</a>
   
 - - -
 
@@ -26,6 +30,6 @@
  - <a href="https://opentutorials.org/module/516">생활코딩 Java</a>
  - <a href="https://dinfree.com/">짧굵배</a>
 
-<h3> Project </h3>
+<h4> SQL </h4>
 
- - <a href="https://github.com/practical-tutorials/project-based-learning">project-based-learning</a>
+ - <a href="https://www.yalco.kr/lectures/sql/">MySQL|얄코</a>
