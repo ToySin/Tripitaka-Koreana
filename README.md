@@ -18,18 +18,3 @@
 <h3> Project </h3>
 
  - <a href="https://github.com/practical-tutorials/project-based-learning">project-based-learning</a>
-  
-- - -
-
-<h1> Ice carving </h1>
-
-<h3> Computer Language </h3>
-
-<h4> Java </h4>
-    
- - <a href="https://opentutorials.org/module/516">생활코딩 Java</a>
- - <a href="https://dinfree.com/">짧굵배</a>
-
-<h4> SQL </h4>
-
- - <a href="https://www.yalco.kr/lectures/sql/">MySQL|얄코</a>
