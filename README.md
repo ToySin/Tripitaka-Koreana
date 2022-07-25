@@ -1,5 +1,9 @@
 <h1> Seok Bingo </h1>
 
+<h3> Studies </h3>
+
+ - <a href="https://github.com/Zeniuus/basics-of-server-development">서버 개발자로서 홀로서기</a>
+
 <h3> Coding Interview </h3>
 
  - <a href="https://github.com/gyoogle/tech-interview-for-developer">👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖</a>
