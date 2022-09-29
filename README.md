@@ -4,6 +4,7 @@
 
  - <a href="https://github.com/Zeniuus/basics-of-server-development">서버 개발자로서 홀로서기</a>
  - <a href="https://github.com/cheese10yun/spring-guide">:octocat: Spring 실전 가이드</a>
+ - <a href="https://github.com/cheese10yun/spring-jpa-best-practices">:octocat: spring-jpa best practices</a>
 
 <h3> Coding Interview </h3>
 
