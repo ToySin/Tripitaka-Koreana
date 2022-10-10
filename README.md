@@ -10,7 +10,8 @@
 
  - <a href="https://github.com/gyoogle/tech-interview-for-developer">👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖</a>
  - <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner">Interview_Question_for_Beginner</a>
-  - <a href="https://github.com/ksundong/backend-interview-question">backend-interview-question</a>
+ - <a href="https://github.com/ksundong/backend-interview-question">backend-interview-question</a>
+ - <a href="https://github.com/f-lab-edu/graduate-resume">F-Lab 수료생 이력서</a>
  
 
 <h3> Computer Science </h3>
